@@ -1,5 +1,5 @@
 # DesignPatternExample
-Some example of design pattern
+Some example of design pattern in java
 
 1. Chain of Responsibility Pattern
 2. Command Pattern
