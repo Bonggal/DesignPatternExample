@@ -1,6 +1,7 @@
 package chain;
 
 public class Data {
+    // Infromation to be processed
     private String header;
     private String content;
 
