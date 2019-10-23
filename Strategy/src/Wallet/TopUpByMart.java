@@ -9,6 +9,7 @@ public class TopUpByMart implements TopUpStrategy {
 
     @Override
     public int pay(int amount) {
+        // Payment process
         System.out.println("Pay by Mart: "+amount);
         return amount;
     }
