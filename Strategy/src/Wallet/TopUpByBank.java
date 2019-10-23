@@ -11,6 +11,7 @@ public class TopUpByBank implements TopUpStrategy {
 
     @Override
     public int pay(int amount) {
+        // Pay process
         System.out.println("Pay using bank: "+amount);
         return amount;
     }
